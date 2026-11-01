@@ -10,8 +10,9 @@ Computer Engineering @ UIUC (May 2028). I work on systems software: OS internals
 
 - **Amazon Leo**, SWE Intern (Summer 2026): Event-driven ingestion into a partitioned Iceberg lake (500GB+); Iceberg sort redesign cut query latency 62%
 - **TIMAN Lab, UIUC**, Undergraduate Researcher (2025–2026): Gaze-tracking browser extension with an MDP + VLM pipeline; paper at CV4Edu @ CVPR 2026
-- **State Farm**, SWE Intern (Summers 2024, 2025): Metrics pipeline and OpenSearch observability for an internal data capture service
-- 
+- **State Farm**, SWE Intern (Summer 2025): Metrics pipeline and OpenSearch observability for an internal data capture service
+- **State Farm**, SWE Intern (Summer 2024): Serverless test data generation (EventBridge, Lambda) and Azure SSO for 100+ internal developers
+
 ## Projects
 
 ### [stm32-bignum-crypto](https://github.com/31adi31/stm32-bignum-crypto)
