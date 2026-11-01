@@ -23,9 +23,18 @@ Unix-like kernel in C with interrupt-driven VirtIO/UART drivers, a FAT-based fil
 
 ### GPT-2 CUDA Inference *(course project, code private)*
 Custom CUDA kernels for GPT-2 inference: Flash Attention with register tiling (**7×** speedup) and a KV cache with prefill/decode kernels (**4.57×**), profiled with Nsight Compute.
-
 ## Tech
-C · C++ · Rust · CUDA · RISC-V · Linux · GDB · Python · Kotlin · AWS · Spark · Iceberg
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=flat&logo=riscv&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/adichalasani31/) · adic3@illinois.edu
