@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Adi 👋
 
-<!--
-**31adi31/31adi31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering @ UIUC (May 2028). I work on systems software: OS internals, performance engineering, and data infrastructure.
 
-Here are some ideas to get you started:
+- 🛰️ Previously SWE intern at **Amazon Leo** (data infrastructure) and **State Farm** (observability)
+- 📄 Co-authored a paper at the CV4Edu Workshop, CVPR 2026
+- 🔧 Currently building a RISC-V OS kernel and learning everything about virtual memory
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### [stm32-bignum-crypto](https://github.com/31adi31/stm32-bignum-crypto)
+Arbitrary-precision arithmetic in C on an ARM Cortex-M4, used for 2048-bit Diffie-Hellman on-device. Montgomery reduction and sliding-window exponentiation for up to **2.83×** speedup, benchmarked cycle-by-cycle with the DWT counter.
+
+### RISC-V OS Kernel *(course project, code private)*
+Unix-like kernel in C with interrupt-driven VirtIO/UART drivers, a FAT-based file system, a concurrent block cache, an ELF loader, and Sv39 virtual memory with lazy allocation.
+
+### GPT-2 CUDA Inference *(course project, code private)*
+Custom CUDA kernels for GPT-2 inference: Flash Attention with register tiling (**7×** speedup) and a KV cache with prefill/decode kernels (**4.57×**), profiled with Nsight Compute.
+
+## Tech
+C · C++ · Rust · CUDA · RISC-V · Linux · GDB · Python · Kotlin · AWS · Spark · Iceberg
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/adichalasani31/) · adic3@illinois.edu
