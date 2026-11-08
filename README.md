@@ -1,6 +1,6 @@
 # Hi, I'm Adi 👋
 
-Computer Engineering @ UIUC (May 2028). I work on systems software (OS internals), performance engineering, and data infrastructure.
+Computer Engineering @ UIUC (May 2028). I'm currently focused on data infrastructure, systems software, and performance.
 
 - 🛰️ Previously SWE intern at **Amazon Leo** (data infrastructure) and **State Farm** (observability)
 - 📄 Co-authored a paper at the CV4Edu Workshop, CVPR 2026
